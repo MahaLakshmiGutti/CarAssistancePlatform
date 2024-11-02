@@ -1,0 +1,19 @@
+{
+    "home": {
+      "title": "Home",
+      "welcome": "Welcome",
+      "features": "Features",
+      "profile": "Profile",
+      "nearbyShowrooms": "Nearby Showrooms",
+      "uploadDocuments": "Upload Documents",
+      "parkingSlots": "Parking Slots",
+      "serviceUpdates": "Service Updates",
+      "carSpares": "Car Spares",
+      "documents": "Documents",
+      "parking": "Parking",
+      "updateDetails": "Update Details",
+      "carComponents": "Car Components",
+      "chatBot": "ChatBot",
+      "services": "Services"
+    }
+  }

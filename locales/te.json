@@ -1,0 +1,19 @@
+{
+    "home": {
+      "title": "హోమ్",
+      "welcome": "స్వాగతం",
+      "features": "ఫీచర్లు",
+      "profile": "ప్రొఫైల్",
+      "nearbyShowrooms": "సమీపంలోని షోరూములు",
+      "uploadDocuments": "పత్రాలను అప్‌లోడ్ చేయండి",
+      "parkingSlots": "పార్కింగ్ స్లాట్లు",
+      "serviceUpdates": "సేవా నవీకరణలు",
+      "carSpares": "కార్ స్పేర్స్",
+      "documents": "పత్రాలు",
+      "parking": "పార్కింగ్",
+      "updateDetails": "వివరాలను నవీకరించండి",
+      "carComponents": "కారు భాగాలు",
+      "chatBot": "చాట్‌బాట్",
+      "services": "సేవలు"
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "home": {
+      "title": "முகப்பு",
+      "welcome": "வரவேற்கிறோம்",
+      "features": "அம்சங்கள்",
+      "profile": "சுயவிவரம்",
+      "nearbyShowrooms": "அருகாமையிலுள்ள கண்காட்சிகள்",
+      "uploadDocuments": "ஆவணங்களை பதிவேற்றவும்",
+      "parkingSlots": "நிறுத்தும் இடங்கள்",
+      "serviceUpdates": "சேவை புதுப்பிப்புகள்",
+      "carSpares": "கார் உதிரி பாகங்கள்",
+      "documents": "ஆவணங்கள்",
+      "parking": "வண்டித் தளம்",
+      "updateDetails": "விவரங்களை புதுப்பிக்கவும்",
+      "carComponents": "கார் கூறுகள்",
+      "chatBot": "அரட்டைப்பொறி",
+      "services": "சேவைகள்"
+    }
+  }

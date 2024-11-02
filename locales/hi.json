@@ -1,0 +1,19 @@
+{
+    "home": {
+      "title": "मुख्य पृष्ठ",
+      "welcome": "स्वागत है",
+      "features": "विशेषताएँ",
+      "profile": "प्रोफाइल",
+      "nearbyShowrooms": "पास के शोरूम",
+      "uploadDocuments": "दस्तावेज़ अपलोड करें",
+      "parkingSlots": "पार्किंग स्लॉट",
+      "serviceUpdates": "सेवा अपडेट",
+      "carSpares": "कार के पुर्जे",
+      "documents": "दस्तावेज़",
+      "parking": "पार्किंग",
+      "updateDetails": "विवरण अपडेट करें",
+      "carComponents": "कार के पुर्जे",
+      "chatBot": "चैटबॉट",
+      "services": "सेवाएँ"
+    }
+  }
